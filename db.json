@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Project 5: OOP for CS 2370",
+      "day": "Sunday, June 19 at 10pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Bridal Photoshoot",
+      "day": "Saturday June 25 at 5pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Project 6: STL for CS 2370",
+      "day": "Thursday June 23",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
